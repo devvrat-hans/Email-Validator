@@ -60,8 +60,8 @@ This application uses the **EmailValidation.io API** to check the validity of th
 - **API Documentation:** [EmailValidation.io API Docs](https://emailvalidation.io/docs/)
 
 ## Live Demo
-You can check out the live demo of the Email Validator application here: [droll-validator.netlify.app](https://droll-validator.netlify.app)
+[Live Demo](https://droll-validator.netlify.app)
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
