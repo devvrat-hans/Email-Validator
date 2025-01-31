@@ -59,7 +59,7 @@ This application uses the **EmailValidation.io API** to check the validity of th
 
 - **API Documentation:** [EmailValidation.io API Docs](https://emailvalidation.io/docs/)
 
-## Live Demo
+## Demo
 [Live Demo](https://droll-validator.netlify.app)
 
 ## License
