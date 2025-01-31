@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Droll Validate - The Most Accurate Email Validator</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+    <nav>
+        <div class="logo">
+            <a href = "index.html"><img src="images/email.svg" alt="Droll Validate Logo"></a>
+            <a href = "index.html"><span>Droll Validate</span></a>
+        </div>
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/index.html">About Us</a></li>
+            <li><a href="/index.html">Contact Us</a></li>
+        </ul>
+
+    </nav>
+    <main>
+        <div class="container">
+            <h1>
+                Enter your email address to validate
+            </h1>
+            <br>
+
+            <form action="/submit" method="POST"> 
+                <input type="email" name="email" id="email" placeholder="Enter your email address">
+                <br>
+                <br>
+                <input id = "submitBtn"class ="btn" type="submit" value="Submit">
+        </div>
+
+        <div class="container">
+            <h2>Your Results</h2>
+            <br>
+            <div id = "resultCont">
+                Your results will appear here
+            </div>
+        </div>
+
+
+    </main>
+    <footer>
+        <p>&copy; 2025 drollvalidate.com | All Rights Reserved</p>
+    </footer>
+<body>
+    <script src="js/index.js" defer></script>
+</body>
+</html>
